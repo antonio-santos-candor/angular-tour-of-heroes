@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "angular-tour-of-heroes",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
